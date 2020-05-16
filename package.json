@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@types/express": "^4.17.5",
+    "@types/express": "^4.17.6",
     "@types/jest": "^25.2.1",
     "@types/supertest": "^2.0.8",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
@@ -30,5 +30,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
-  }
+  },
+  "repository": "https://github.com/dyegoturl/desafio-node-js.git",
+  "author": "Dyego Turl <dyegoturl@actionplus.com.br>"
 }
